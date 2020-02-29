@@ -95,4 +95,4 @@ Closes the modal
 - `npm run build` to get the build
 - `npm run test` to test
 - `npm run serve` to run a development environment
-
+- Good Luck
